@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dell Authorized Service Center – Hebbal, Bengaluru
 
 A premium, modern, fully responsive website built using only **HTML5, CSS3, and Vanilla JavaScript (ES6+)**. The design captures Dell's brand identity with glassmorphism overlays, custom vector icon visuals, responsive grid layouts, and interactive components.
@@ -42,3 +43,6 @@ dell-authorized-service-center/
 1. Extract the project ZIP package.
 2. Double-click or open **`index.html`** in any modern web browser (Chrome, Firefox, Safari, Edge).
 3. Navigate between pages using the sticky header bar.
+=======
+# hp_services_demo
+>>>>>>> 5b56600e35328bdcdbd75f6c81af16349defeefb
